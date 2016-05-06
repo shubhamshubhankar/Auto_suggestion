@@ -1,0 +1,282 @@
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+NO......
+
+a-129
+b-129
+a-129
+l-1
+o-1
+n-1
+e-1
+s-1
+m-4
+p-4
+e-2
+r-2
+e-2
+s-1
+s-1
+n-75
+d-60
+o-52
+n-52
+a-6
+b-6
+l-6
+e-6
+e-13
+d-10
+l-1
+y-1
+e-1
+r-2
+s-1
+i-4
+n-4
+g-4
+m-25
+e-25
+n-25
+t-25
+s-15
+s-1
+u-5
+m-5
+e-5
+t-5
+g-5
+a-5
+n-5
+i-5
+t-5
+i-5
+o-5
+n-5
+p-3
+i-1
+c-1
+a-1
+l-1
+t-2
+i-2
+s-2
+t-2
+o-1
+n-1
+u-1
+m-1
+r-3
+t-3
+h-1
+r-1
+o-1
+s-1
+i-1
+s-1
+i-2
+c-2
+u-2
+l-2
+a-2
+r-1
+t-1
+i-1
+o-1
+n-1
+s-30
+e-9
+d-3
+l-1
+y-1
+n-1
+e-1
+s-1
+s-1
+m-2
+e-2
+n-2
+t-2
+s-1
+r-2
+s-1
+s-1
+h-10
+e-4
+d-3
+l-1
+y-1
+n-1
+e-1
+s-1
+s-1
+s-1
+i-1
+n-1
+g-1
+l-2
+e-2
+s-2
+s-2
+l-1
+y-1
+m-2
+e-2
+n-2
+t-2
+s-1
+i-5
+a-2
+s-1
+c-1
+n-1
+g-1
+o-1
+k-1
+s-1
+i-1
+t-3
+a-2
+r-2
+d-2
+i-1
+z-1
+e-1
+r-1
+a-1
+l-1
+t-13
+a-2
+b-1
+l-1
+e-1
+g-1
+e-1
+e-7
+d-1
+m-2
+e-2
+n-2
+t-2
+s-1
+r-2
+s-1
+s-1
+i-4
+c-1
+n-1
+g-1
+s-2
+e-1
+d-1
+
+70
+9 - abandoned
+6 - abandonable
+3 - abandon
+3 - aband
+1 - abatised
+1 - abatis
+1 - abating
+1 - abatic
+1 - abates
+1 - abaters
+1 - abater
+1 - abatements
+1 - abatement
+1 - abated
+1 - abate
+1 - abatage
+1 - abatable
+1 - abastral
+1 - abastardize
+1 - abastard
+1 - abassi
+1 - abask
+1 - abasio
+1 - abasing
+1 - abasic
+1 - abasias
+1 - abasia
+1 - abashments
+1 - abashment
+1 - abashlessly
+1 - abashless
+1 - abashing
+1 - abashes
+1 - abashedness
+1 - abashedly
+1 - abashed
+1 - abash
+1 - abases
+1 - abasers
+1 - abaser
+1 - abasements
+1 - abasement
+1 - abasedness
+1 - abasedly
+1 - abased
+1 - abase
+1 - abas
+1 - abarticulation
+1 - abarticular
+1 - abarthrosis
+1 - abaptistum
+1 - abaptiston
+1 - abapical
+1 - abannition
+1 - abanga
+1 - abanet
+1 - abandum
+1 - abandons
+1 - abandonments
+1 - abandonment
+1 - abandoning
+1 - abandoners
+1 - abandoner
+1 - abandonee
+1 - abandonedly
+1 - abamps
+1 - abamperes
+1 - abampere
+1 - abamp
+1 - abalones
