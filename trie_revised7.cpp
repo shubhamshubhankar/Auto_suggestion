@@ -1,11 +1,5 @@
 // C++ implementation of Query Auto suggestion using Trie(Based on the Heuristics)
 #include "bits/stdc++.h"
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <stdbool.h>
-#include <algorithm>
-#include<iostream>
 using namespace std;
 #define ARRAY_SIZE(a) sizeof(a)/sizeof(a[0])
 
