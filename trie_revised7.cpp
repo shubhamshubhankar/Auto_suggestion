@@ -11,38 +11,7 @@ using namespace std;
 #define CHAR_TO_INDEX(c) ((int)c - (int)'a')
 
 //Function to convert index of an array into corresponding character value.
-char INDEX_TO_CHAR(int i)
-{
-    char value;
-    if(i==0)value='a';
-    if(i==1)value='b';
-    if(i==2)value='c';
-    if(i==3)value='d';
-    if(i==4)
-    value='e';if(i==5)
-    value='f';if(i==6)
-    value='g';if(i==7)
-    value='h';if(i==8)
-    value='i';if(i==9)
-    value='j';if(i==10)
-    value='k';if(i==11)
-    value='l';if(i==12)
-    value='m';if(i==13)
-    value='n';if(i==14)
-    value='o';if(i==15)
-    value='p';if(i==16)
-    value='q';if(i==17)
-    value='r';if(i==18)
-    value='s';if(i==19)
-    value='t';if(i==20)
-    value='u';if(i==21)
-    value='v';if(i==22)
-    value='w';if(i==23)
-    value='x';if(i==24)
-    value='y';if(i==25)
-    value='z';
-    return value;
-}
+#define INDEX_TO_CHAR(i) ((char)i + 97)
 
 // trie node
 struct TrieNode
