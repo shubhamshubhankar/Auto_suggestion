@@ -1,11 +1,5 @@
 //C++ implementation of Query Auto Suggestion using Trie (Brute Force (DFS))
 #include "bits/stdc++.h"
-#include <stdio.h>
-#include <iomanip>
-#include <stdlib.h>
-#include <string.h>
-#include <stdbool.h>
-#include <algorithm>
 using namespace std;
 
 // Function to convert character into index.
